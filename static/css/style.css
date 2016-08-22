@@ -106,12 +106,12 @@ header p { color: #C0C0C0}
 .form-group input[type="text"], .form-group textarea { border-radius: 0;}
 
   .required {
-    background: url(./imgs/required.png) right top no-repeat;
+    background: url(../imgs/required.png) right top no-repeat;
   }
 
   button.send_btn {
     cursor: pointer;
-    background:url(./imgs/pattern.png) repeat;
+    background:url(../imgs/pattern.png) repeat;
     color: #FFF;
     margin:0 10px 0 0;
     display: inline-block;
